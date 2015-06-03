@@ -1,6 +1,6 @@
 # Advanced Iterables
 
-A lot of thought went into designing the Iteratabls specification: The `.next()`
+A lot of thought went into designing the Iterables specification: The `.next()`
 method was chosen to allow both general usage iteration (as we have seen in the
 previous lessons), but also to enable more advanced techniques.
 
